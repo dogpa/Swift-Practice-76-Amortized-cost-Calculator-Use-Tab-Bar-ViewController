@@ -13,6 +13,7 @@
 		2D18513726F07244004C57AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D18513526F07244004C57AF /* Main.storyboard */; };
 		2D18513926F07245004C57AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D18513826F07245004C57AF /* Assets.xcassets */; };
 		2D18513C26F07245004C57AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D18513A26F07245004C57AF /* LaunchScreen.storyboard */; };
+		2D18514426F08918004C57AF /* ResultForCalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D18514326F08918004C57AF /* ResultForCalculatorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2D18513826F07245004C57AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D18513B26F07245004C57AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D18513D26F07245004C57AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D18514326F08918004C57AF /* ResultForCalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultForCalculatorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2D18512F26F07244004C57AF /* AppDelegate.swift */,
 				2D18513126F07244004C57AF /* SceneDelegate.swift */,
 				2D18513326F07244004C57AF /* ViewController.swift */,
+				2D18514326F08918004C57AF /* ResultForCalculatorViewController.swift */,
 				2D18513526F07244004C57AF /* Main.storyboard */,
 				2D18513826F07245004C57AF /* Assets.xcassets */,
 				2D18513A26F07245004C57AF /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D18513426F07244004C57AF /* ViewController.swift in Sources */,
+				2D18514426F08918004C57AF /* ResultForCalculatorViewController.swift in Sources */,
 				2D18513026F07244004C57AF /* AppDelegate.swift in Sources */,
 				2D18513226F07244004C57AF /* SceneDelegate.swift in Sources */,
 			);
